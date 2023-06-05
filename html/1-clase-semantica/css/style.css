@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#list-name {
+    color: #ff09ff;
+}
+
+.list-title {
+    font-size: 16px;
+    line-height: 1.07143;
+    font-weight: 700;
+    letter-spacing: -.028em;
+}
+
+.list-attribute {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.03125;
+    letter-spacing: -0.015em;
+}

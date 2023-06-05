@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+main {
+    position: absolute;
+    top: 15%;
+    left: 25%;
+}
+
+main div {
+    border: 0.2rem black solid;
+}
+
+.title-box {
+    position: relative;
+    top: 3rem;
+    left: 18rem;
+    width: 15rem;
+    font-size: 1.6rem;
+    padding: 1.6rem;
+}
+
+.title-box {
+    text-align: center;
+    background-color: red;
+    border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+}
+
+.content-box {
+    width: 500px;
+    min-height: 100px;
+    padding: 50px;
+    font-size: 1.6rem;
+}
+
+.content-box {
+    background-color: #efefef;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}

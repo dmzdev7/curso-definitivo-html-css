@@ -1,0 +1,14 @@
+div p {
+    font-size: 12px;
+}
+
+/** Clase */
+.parrafo {
+    color: blue;
+}
+
+/** ID */
+#otro-parrafo {
+    color: gold;
+    font-size: 22px;
+}

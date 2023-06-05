@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/** Hermano adyacente o cercano = (etiqueta + etiqueta)*/
+/*
+    h2 + p {
+        color: red;
+    } 
+*/
+
+/** Hermano general = (etiqueta ~ etiqueta)*/
+/* 
+    h2 ~ p {
+        color: red;
+    } 
+*/
+
+/** Hijo = (etiqueta > etiqueta)*/
+/* 
+    div > p {
+        color: red;
+    } 
+*/
+
+/** Descendiente = (etiqueta etiqueta)*/
+div p {
+    color: red;
+}
